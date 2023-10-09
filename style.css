@@ -95,8 +95,8 @@ header {
 main {
    width: 100%;
    height: auto;
-   /* background-color: var(--off-white); */
-   background-color: #f3f3c1;
+    background-color: var(--off-white);
+   
 
 }
 

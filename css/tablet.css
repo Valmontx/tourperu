@@ -1,0 +1,40 @@
+
+.main-table-container{
+    display: flex;
+}
+.product-cars--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider{
+justify-content: center;
+overflow: hidden;
+}
+:hover.plan-card--ca {
+    background-color: rgb(244, 152, 113);
+}
+.currency-table--container td , .comisiones-table--container td{
+  backdrop-filter: blur(7px);
+  background: rgba(249, 212, 212, 0.342);
+
+}
+
+main{
+    background-color: beige;
+}
+.currency-table--container td{
+    width: 68%;
+}
+.click-aqui{
+    text-decoration:  none;
+    padding-left: 15px;
+    color: rgb(164, 96, 226);
+}
+
+
+
+
+

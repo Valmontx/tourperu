@@ -16,9 +16,10 @@ overflow: hidden;
 :hover.plan-card--ca {
     background-color: rgb(244, 152, 113);
 }
-.currency-table--container td , .comisiones-table--container td{
+.currency-table--container td , .info-table--container td{
   backdrop-filter: blur(7px);
-  background: rgba(249, 212, 212, 0.342);
+  background: rgba(253, 217, 217, 0.342);
+  border: 1px solid rgb(250, 235, 235);
 
 }
 
